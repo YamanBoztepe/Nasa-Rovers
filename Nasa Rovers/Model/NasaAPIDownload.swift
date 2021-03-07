@@ -10,7 +10,7 @@ import Alamofire
 
 class NasaAPIDownload {
     
-    private var baseURL = "hçtps://api.nasa.gov/mars-photos/api/v1/rovers/"
+    private var baseURL = "https://api.nasa.gov/mars-photos/api/v1/rovers/"
     private let key = "0vd6RB5Dv4hIWACaSSmAFzMqF0FuUOgoKKhcAPa0"
     private var rover: Rovers
     
